@@ -5,21 +5,21 @@ A To-Do app helps keep track of all the tasks you have aligned for yourself duri
 ## Essentially has the following features:
 
 **1. Adding a Task:**
--> User can add a task to his list
+* User can add a task to his list
 
 **2. Editing a Task:**
--> User can update the name of the task
+* User can update the name of the task
 
 **3. Deleting a Task:**
--> User can delete a task
+* User can delete a task
 
 **4. List of Tasks(Completed/ Uncompleted):**
--> Presents a list of completed and uncompleted tasks respectively
+* Presents a list of completed and uncompleted tasks respectively
 
 **5. Marking a task Done/Undone:**
--> User can mark the task as finished or yet to complete
+* User can mark the task as finished or yet to complete
 
-##Tools and technology used:
+## Tools and technology used:
 
 * Used *HTML* to build the face of the app
 * Used *Bootstrap* to download icons, resembling each functionality to provide a better user experience.
