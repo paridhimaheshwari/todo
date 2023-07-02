@@ -27,10 +27,13 @@ A To-Do app helps keep track of all the tasks you have aligned for yourself duri
 
 The following is the appearance of the website:
 
-<img width="1440" alt="Screenshot 2023-07-02 at 6 01 58 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/b73cc9a1-aa90-4567-a9eb-22019da5926e">
+<img width="1440" alt="Screenshot 2023-07-02 at 6 03 28 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/9238da58-1396-4949-aaf8-52faff53816e">
+
+Admin page for executive handling:
+<img width="1440" alt="Screenshot 2023-07-02 at 6 03 40 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/e79036c9-1f06-4f54-851b-bf0a2632ff23">
 
 
 
-<img width="1440" alt="Screenshot 2023-07-02 at 6 01 58 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/06fbc960-149c-4e1c-8f81-4a8a276b76f6">
+
 
    
