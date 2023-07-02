@@ -29,6 +29,9 @@ The following is the appearance of the website:
 
 <img width="1440" alt="Screenshot 2023-07-02 at 6 03 28 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/9238da58-1396-4949-aaf8-52faff53816e">
 
+
+
+
 Admin page for executive handling:
 <img width="1440" alt="Screenshot 2023-07-02 at 6 03 40 PM" src="https://github.com/paridhimaheshwari/todo/assets/13456475/e79036c9-1f06-4f54-851b-bf0a2632ff23">
 
